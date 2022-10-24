@@ -2,4 +2,9 @@ Les commandes
 		○ Git clone "liens ripository github"
 		○ Git add .
 		○ Git commit -m "message explicite"
-		○ Git push -u origin main 
+		○ Git push -u origin main
+		○ Git log 
+
+
+
+
